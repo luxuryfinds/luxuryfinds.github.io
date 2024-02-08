@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://.github.io/sitemap.xml
+Sitemap: https://luxuryfinds.r-e.kr/sitemap.xml
